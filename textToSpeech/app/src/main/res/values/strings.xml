@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">textToSpeech</string>
+    <string name="enter_text">Enter text</string>
+</resources>
